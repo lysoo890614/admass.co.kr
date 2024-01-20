@@ -1,0 +1,12 @@
+{"notices" : [
+  {
+    "title": "공지사항 Test1",
+    "contents": "공지사항 내용 Test",
+    "date": "2024-01-20"
+  },
+  {
+    "title": "공지사항 Test2",
+    "contents": "공지사항 내용 Test2",
+    "date": "2024-01-23"
+  }
+]}
